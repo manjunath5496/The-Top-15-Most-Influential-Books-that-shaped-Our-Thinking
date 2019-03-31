@@ -38,3 +38,33 @@
 10. Experimental Researches in Electricity</br>
                 Michael Faraday</br>
                 <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/f1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+                
+11.  The Republic</br>
+               Plato</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/pdf046.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+12. The Communist Manifesto</br>
+               Karl Marx</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/pdf044.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+     
+13. The Wealth of Nations</br>
+                Adam Smith</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/as1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+14. Rights of Man</br>
+                 Thomas Paine</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/pdf052.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+15. A Brief History of Time</br>
+               Stephen Hawking</br>
+                <a href="https://github.com/manjunath5496/Algorithm-Books/blob/master/sh1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                
+                
+                
+                
+                
+                
+                
+                
